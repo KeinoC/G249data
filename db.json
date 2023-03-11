@@ -1,0 +1,12 @@
+{"inquiries": [
+    {
+        "id": 1,
+        "client": "Tessa Testarang",
+        "address": "123 blue street",
+        "date": "6/26/2023",
+        "status": "pending",
+        "price": 850
+    }
+]
+
+} 
